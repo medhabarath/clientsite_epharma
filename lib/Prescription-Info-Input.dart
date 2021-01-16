@@ -19,5 +19,5 @@ void main () {
   Year = stdin.readByteSync();
 
   print(Date);
-
+......
 }
