@@ -1,22 +1,15 @@
 import 'dart:io';
 
 void main () {
-  print("Patient Name: ");
-  String patientname = stdin.readLineSync();
+    print("Patient Name: ");
+    String patientname = stdin.readLineSync();
+    //Patient Name Input
 
 
-  int Day;
-  int Month;
-  int Year;
-  String Date;
 
-  Date = (Day"," Month"," Year);
-  print("Day: ");
-  Day = stdin.readByteSync();
-  print("Month: ");
-  Month = stdin.readByteSync();
-  print("Year: ");
-  Year = stdin.readByteSync();
+    print("Month/Day/Year: ");
+    String Date = stdin.readLineSync();
+    //Date Input
 
-  print(Date);
+
 }
