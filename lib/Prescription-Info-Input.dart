@@ -11,5 +11,12 @@ void main () {
     String Date = stdin.readLineSync();
     //Date Input
 
+    print("Type of Drug: ");
+    String Drug = stdin.readLineSync();
+    //Type of Drug Input
 
+
+    print("Additional Comments: ");
+    String Comments = stdin.readLineSync();
+    //Extra notes from doctor (Quantities, Usage Instructions)
 }
