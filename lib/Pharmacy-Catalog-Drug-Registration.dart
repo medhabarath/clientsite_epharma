@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 class InsertPharmacyCatalogPage extends StatefulWidget {
   InsertPharmacyCatalogPage() : super();
 
+
   @override
   InsertPharmacyCatalogState createState() => InsertPharmacyCatalogState();
 }

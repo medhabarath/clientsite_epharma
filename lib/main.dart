@@ -19,5 +19,6 @@ class MyApp extends StatelessWidget {
             body:
                 InsertPrescriptionInfoPage() //This inserts the prescription form page into the body of the main page,
             ));
+
   }
 }
