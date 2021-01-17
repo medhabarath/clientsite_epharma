@@ -5,8 +5,6 @@ void main () {
     String patientname = stdin.readLineSync();
     //Patient Name Input
 
-
-
     print("Month/Day/Year: ");
     String Date = stdin.readLineSync();
     //Date Input
@@ -14,7 +12,6 @@ void main () {
     print("Type of Drug: ");
     String Drug = stdin.readLineSync();
     //Type of Drug Input
-
 
     print("Additional Comments: ");
     String Comments = stdin.readLineSync();
